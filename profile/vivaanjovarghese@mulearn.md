@@ -37,16 +37,6 @@ Past World Cup Memories:
     Support at least two other Squad Domain players with coordination and tooling so they can focus on their own tasks.
     Leave the tournament with a public repo that others can fork and build on for future μLearn programs.
 
-🏅 Portfolio Highlights
-History of Open Source and Collaborative Contributions:
-
-    Contribute to the μLearn platform repository, helping with updates to student profiles and proof-of-work systems.
-    Developed custom Model Context Protocol (MCP) servers and automation pipelines.
-
-History of Community Engagement:
-
-    Coordinated operations for initiatives like Launchpad, Top 100 Series, In50Hours, and Mutate.
-    Assist student developers and creators on the Discord server with onboarding and learning paths.
 
 Domain Profiles:
 
@@ -59,10 +49,6 @@ Tools, Workflows & Automations:
     Built custom MCP servers and task verification scripts for μLearn program operations.
     Uses Notion and automated pipelines for cross-team coordination and reporting.
 
-Public Portfolio & Recognition:
-
-    Assisted in drafting the μFIFA Gamification Framework v1.0, which is the design documentation powering this tournament.
-    Created guides on integrating AI workflows into student learning pathways, used across μLearn's campus ecosystem.
 
 Education and Proof of Work:
 
@@ -70,10 +56,7 @@ Education and Proof of Work:
     💻 Coder: GitHub: VivaanJoVarghese-6
     📋 Strategist: LinkedIn: VivaanJoVarghese
 
-History of Leadership:
 
-    Worked in progressive operations and coordinator roles at μLearn Foundation (Associate → Operations Manager → Program Coordinator → Program Manager).
-    Assisted cross-functional teams of developers, creators, and coordinators on educational programs.
 
 Networking:
 
